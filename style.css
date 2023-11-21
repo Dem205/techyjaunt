@@ -7,6 +7,7 @@
 body {
   font-family: "Poppins", san serif;
   background-color: black;
+  padding: 0 50px;
 }
 
 .navbar {
@@ -41,7 +42,7 @@ li {
 }
 
 .wordmark {
-  margin: 15px 0 0 0px;
+  margin: 15px 0 0 0;
   font-weight: 700;
   text-align: start;
 }
@@ -211,7 +212,7 @@ li {
 }
 
 .end {
-  width: 100%;
+  width: 120vw%;
   height: 80px;
   background-color: white;
   margin-top: 300px;
