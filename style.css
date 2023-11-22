@@ -7,7 +7,6 @@
 body {
   font-family: "Poppins", san serif;
   background-color: black;
-  padding: 0 50px;
 }
 
 .navbar {
@@ -29,6 +28,7 @@ body {
 .container {
   max-width: 1100px;
   margin: 0 auto;
+  padding: 0 10px;
 }
 
 ul {
